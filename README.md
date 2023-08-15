@@ -1,7 +1,7 @@
 # HTTP-communication
 A command-server implemented through an API.
 
-Setup:
+Setup:\n
 git clone git@github.com:efesuner12/HTTP-communication.git
 cd HTTP-communication
 python3 -m venv venv
